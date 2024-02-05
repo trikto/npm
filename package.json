@@ -3,12 +3,13 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"main": "server.js",
+	"main": "index.js.js",
 	"scripts": {
-		"start": "node server.js"
+		"start": "node index.js.js"
 	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+	},
+	"author":"Gajan Rajah"
 }
